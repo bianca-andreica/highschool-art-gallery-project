@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.docx linguist-documentation
+*.gif linguist-vendored
+*.jpg linguist-vendored
